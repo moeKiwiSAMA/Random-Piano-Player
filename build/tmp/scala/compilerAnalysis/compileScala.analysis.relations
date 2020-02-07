@@ -1,0 +1,19 @@
+products:
+   /Users/moekiwisama/Desktop/api-proxy/src/main/scala/Main.scala -> /Users/moekiwisama/Desktop/api-proxy/build/classes/scala/main/Main$$anon$1$$anonfun$run$1$$anonfun$apply$1.class
+   /Users/moekiwisama/Desktop/api-proxy/src/main/scala/Main.scala -> /Users/moekiwisama/Desktop/api-proxy/build/classes/scala/main/Main$$anon$1$$anonfun$run$1.class
+   /Users/moekiwisama/Desktop/api-proxy/src/main/scala/Main.scala -> /Users/moekiwisama/Desktop/api-proxy/build/classes/scala/main/Main$$anon$1.class
+   /Users/moekiwisama/Desktop/api-proxy/src/main/scala/Main.scala -> /Users/moekiwisama/Desktop/api-proxy/build/classes/scala/main/Main$$anon$2.class
+   /Users/moekiwisama/Desktop/api-proxy/src/main/scala/Main.scala -> /Users/moekiwisama/Desktop/api-proxy/build/classes/scala/main/Main$.class
+   /Users/moekiwisama/Desktop/api-proxy/src/main/scala/Main.scala -> /Users/moekiwisama/Desktop/api-proxy/build/classes/scala/main/Main.class
+binary dependencies:
+   /Users/moekiwisama/Desktop/api-proxy/src/main/scala/Main.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/rt.jar
+   /Users/moekiwisama/Desktop/api-proxy/src/main/scala/Main.scala -> /Users/moekiwisama/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+source dependencies:
+external dependencies:
+class names:
+   /Users/moekiwisama/Desktop/api-proxy/src/main/scala/Main.scala -> Main
+   /Users/moekiwisama/Desktop/api-proxy/src/main/scala/Main.scala -> Main$
+   /Users/moekiwisama/Desktop/api-proxy/src/main/scala/Main.scala -> Main$$anon$1
+   /Users/moekiwisama/Desktop/api-proxy/src/main/scala/Main.scala -> Main$$anon$1$$anonfun$run$1
+   /Users/moekiwisama/Desktop/api-proxy/src/main/scala/Main.scala -> Main$$anon$1$$anonfun$run$1$$anonfun$apply$1
+   /Users/moekiwisama/Desktop/api-proxy/src/main/scala/Main.scala -> Main$$anon$2
